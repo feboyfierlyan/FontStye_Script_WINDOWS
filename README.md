@@ -30,6 +30,7 @@ python font_style.py
 
 ### Requirements ( ) :
 ```
+Selenium
 Python 3.xx
 
 ```
