@@ -31,6 +31,7 @@ python font_style.py
 ### Requirements ( ) :
 ```
 Selenium
+Chrome Web Browser
 Python 3.xx
 
 ```
